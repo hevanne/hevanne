@@ -1,9 +1,12 @@
 <h1>Welcome to my Github</h1>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hevanne&layout=compact&langs_count=8&theme=tokyonight" alt="stats_langages">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hevanne&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="stats_commit">
+
 <!--
 **hevanne/hevanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hevanne&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="stats_commit">
+Affichable quand des projets seront postés (perte des stats avec changement de nom)
 
 Here are some ideas to get you started:
 
