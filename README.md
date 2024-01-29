@@ -1,9 +1,7 @@
 <h1>Welcome to my Github</h1>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hevanne&layout=compact&langs_count=8&theme=tokyonight" alt="stats_langages"/>
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user="hevanne" alt="GitHub Streak"/>
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hevanne&layout=compact&langs_count=8&theme=tokyonight" alt="Language stats"/>
+
 <!--
 **hevanne/hevanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
