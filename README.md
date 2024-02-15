@@ -10,7 +10,7 @@ Jeune développeur en 1ère année de BUT Informatique, particulièrement attir�
 
 ## Langages connus et pratiqués
 
-<img src="https://logowik.com/content/uploads/images/731_java.jpg" alt="logo java" width="30" height="30">
+<img src="https://logowik.com/content/uploads/images/731_java.jpg" alt="logo java" width="90" height="90">
 
 <!--
 **hevanne/hevanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
