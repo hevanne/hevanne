@@ -6,7 +6,7 @@
 
 ## Profil
 
-Jeune développeur en 1ère année de BUT Informatique, particulièrement attiré par le développement d'applications et les systèmes d'exploitation. <br>
+Jeune développeur en 1ère année de BUT Informatique, particulièrement attiré par le développement d'applications et les systèmes d'exploitation. <br><br>
 
 ## Langages connus et pratiqués
 
