@@ -16,7 +16,7 @@ Jeune développeur en 1ère année de BUT Informatique, particulièrement attir�
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="logo html" width="90" height="90">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="logo css" width="90" height="90">
   <img src="https://colibri.unistra.fr/application/assets/images/courses/sql_icone.png" alt="logo sql" width="90" height="90">
-  <img src="https://img2.freepng.fr/20180808/ytw/kisspng-bash-shell-script-bourne-shell-scripting-language-create-and-delete-files-and-folders-in-bash-from-5b6ab0e6d589e2.2952756215337187588747.jpg" alt="logo bash" width="90" height="90">
+  <img src="[https://img2.freepng.fr/20180808/ytw/kisspng-bash-shell-script-bourne-shell-scripting-language-create-and-delete-files-and-folders-in-bash-from-5b6ab0e6d589e2.2952756215337187588747.jpg](https://e7.pngegg.com/pngimages/39/202/png-clipart-bash-shell-command-line-interface-ls-shell-rectangle-logo.png)" alt="logo bash" width="90" height="90">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png" alt="logo batch" width="90" height="90">
 </p>
 
