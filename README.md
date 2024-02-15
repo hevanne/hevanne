@@ -17,7 +17,7 @@ Jeune développeur en 1ère année de BUT Informatique, particulièrement attir�
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="logo css" width="70" height="90">
   <img src="https://colibri.unistra.fr/application/assets/images/courses/sql_icone.png" alt="logo sql" width="90" height="90">
   <img src="https://bashlogo.com/img/symbol/png/full_colored_light.png" alt="logo bash" width="90" height="90">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png" alt="logo batch" width="90" height="90" style="right: 5000000px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png" alt="logo batch" width="90" height="90" style="margin-right: 50px">
 </p>
 
 <!--
