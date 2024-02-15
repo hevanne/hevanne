@@ -10,8 +10,8 @@ Jeune développeur en 1ère année de BUT Informatique, particulièrement attir�
 
 ## Langages connus et pratiqués
 
-<p>
-  <img src="https://w7.pngwing.com/pngs/718/323/png-transparent-java-computer-icons-java-miscellaneous-text-symbol-thumbnail.png" alt="logo java" width="90" height="90">
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/550px-Java_Logo.svg.png" alt="logo java" width="90" height="90">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/280px-C_Programming_Language.svg.png" alt="logo C" w idth="90" height="90">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="logo html" width="90" height="90">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="logo css" width="90" height="90">
