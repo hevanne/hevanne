@@ -10,7 +10,7 @@ Jeune développeur en 1ère année de BUT Informatique, particulièrement attir�
 
 ## Langages connus et pratiqués
 
-<p align="center" style="position: relative; margin-left: 50px">
+<p align="center">
   <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" alt="logo java" width="120" height="90">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/280px-C_Programming_Language.svg.png" alt="logo C" w idth="90" height="90">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="logo html" width="90" height="90">
