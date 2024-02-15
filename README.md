@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Welcome to my Github</h1>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hevanne&theme=tokyonight" alt="Github stats" width="290" style="margin-right: 50px; border: 0.8px solid white; border-radius: 5px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hevanne&layout=compact&langs_count=8&theme=tokyonight" alt="Language stats" width="310">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hevanne&theme=tokyonight" alt="Github stats" width="400" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hevanne&layout=compact&langs_count=8&theme=tokyonight" alt="Language stats" width="310" height="200">
 </div>
 
 ## Profil
