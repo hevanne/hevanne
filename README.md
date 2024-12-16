@@ -1,24 +1,38 @@
-<div align="center">
-  <h1>Welcome to my Github</h1>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hevanne&theme=tokyonight" alt="Github stats" width="400" height="200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hevanne&layout=compact&langs_count=8&theme=tokyonight" alt="Language stats" width="310" height="200">
-</div>
+# Welcome to my GitHub Account !
+
+| [![Hevanne GitHub stats](https://github-readme-stats.vercel.app/api?username=hevanne&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hevanne&langs_count=5&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
+| --- | --- |
 
 ## Profil
 
-Jeune développeur en 1ère année de BUT Informatique, particulièrement attiré par le développement d'applications et les systèmes d'exploitation. <br><br>
+Développeur junior, je suis particulièrement intéressé par le développement d'applications de bureau et web. Je cherche à m'orienter vers ces domaines en apprenant continuellement différentes notions de développement.
 
-## Langages connus et pratiqués
+## Langages appris et pratiqués
 
-<p align="center">
-  <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" alt="logo java" width="120" height="90">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/280px-C_Programming_Language.svg.png" alt="logo C" w idth="90" height="90">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="logo html" width="90" height="90">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="logo css" width="70" height="90">
-  <img src="https://colibri.unistra.fr/application/assets/images/courses/sql_icone.png" alt="logo sql" width="90" height="90">
-  <img src="https://bashlogo.com/img/symbol/png/full_colored_light.png" alt="logo bash" width="90" height="90">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png" alt="logo batch" width="90" height="90">
-</p>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
+![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
+![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)  
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+## Logiciels et outils pour développer
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)  
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 
 <!--
 **hevanne/hevanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
