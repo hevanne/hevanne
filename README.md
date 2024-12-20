@@ -1,6 +1,6 @@
 # Welcome to my GitHub Account !
 
-| [![Hevanne GitHub stats](https://github-readme-stats.vercel.app/api?username=hevanne&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hevanne&langs_count=5&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Hevanne GitHub stats](https://github-readme-stats.vercel.app/api?username=hevanne&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hevanne&langs_count=4&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
 | --- | --- |
 
 ## Profil
