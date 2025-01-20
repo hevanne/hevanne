@@ -5,7 +5,7 @@
 
 ## Profil
 
-Développeur junior, je suis particulièrement intéressé par le développement d'applications de bureau et web. Je cherche à m'orienter vers ces domaines en apprenant continuellement différentes notions de développement.
+Développeur junior, je suis particulièrement intéressé par le développement d'applications (bureau, web, mobile). Je cherche à m'orienter vers ces domaines en apprenant continuellement différentes notions de développement.
 
 ## Langages appris et pratiqués
 
