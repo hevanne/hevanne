@@ -8,7 +8,6 @@
 	     alt="Langages les plus utilisés" 
 	     width="290" 
 	     style="border: 0.8px solid white; border-radius: 5px;" />
-| --- | --- |
 
 ## Profil
 
